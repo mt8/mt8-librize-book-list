@@ -26,7 +26,7 @@ wrap_class:ラップするタグのクラス、デフォルト:mt8lbl_book_list
 no_title:タイトルを表示しない、デフォルト：false
 random:ランダム表示、デフォルト：false
 link:リブライズにリンクするか、デフォルト：true
-image_size:画像サイズ(縦)、デフォルト：75
+image_size:画像サイズ(横)、デフォルト：75
 
 == Installation ==
 
