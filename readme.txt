@@ -39,6 +39,8 @@ image_size:画像サイズ(横)、デフォルト：75
 
 == Frequently Asked Questions ==
 
+Still nothing.
+
 == Upgrade Notice ==
 
 = 1.0 =
